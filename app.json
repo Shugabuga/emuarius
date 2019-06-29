@@ -1,0 +1,29 @@
+{
+  "name": "Emuarius",
+  "description": "Bridge between Twitter and Mastodon",
+  "repository": "https://github.com/emersion/emuarius",
+  "logo": "https://shuga.co/assets/donate/btc.png",
+  "keywords": ["mastodon"],
+  "env": {
+    "EMUARIUS_ROOT_URL": {
+      "description": "The URL to host Emarius at.",
+      "value": "appname.herokuapp.com"
+    },
+    "EMUARIUS_TWITTER_CONSUMER_KEY": {
+      "description": "The Consumer Key from Twitter",
+      "value": ""
+    },
+    "EMUARIUS_TWITTER_CONSUMER_SECRET": {
+      "description": "The Consumer Secret from Twitter",
+      "value": ""
+    },
+    "EMUARIUS_TWITTER_ACCESS_TOKEN": {
+      "description": "The Access Token from Twitter",
+      "value": ""
+    },
+    "EMUARIUS_TWITTER_ACCESS_TOKEN_SECRET": {
+      "description": "The Access Token Secret from Twitter",
+      "value": ""
+    }
+  }
+}
