@@ -1,7 +1,7 @@
 {
   "name": "Emuarius",
   "description": "Bridge between Twitter and Mastodon",
-  "repository": "https://github.com/emersion/emuarius",
+  "repository": "https://github.com/Shugabuga/emuarius",
   "logo": "https://shuga.co/assets/donate/btc.png",
   "keywords": ["mastodon"],
   "env": {
