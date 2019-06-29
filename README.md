@@ -16,6 +16,12 @@ cp emuarius.example.toml emuarius.toml
 emuarius
 ```
 
+### Heroku
+
+Emuarius works on Heroku. Press the button below to set up Heroku support.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Docker
 
 ```shell
